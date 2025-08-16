@@ -10,4 +10,4 @@ It demonstrates the user interface design for an image generation tool, showing 
 - Great for UI/UX practice and static demos  
 
 ## Preview
-C:\Users\CHIGOZIRIM\Desktop\CostaProject\test.png
+<img width="209" height="192" alt="test" src="https://github.com/user-attachments/assets/bbdd4cb3-8dcf-441f-b22b-a4ab4de55fc1" />
